@@ -1,4 +1,0 @@
-#summary screenshots
-#labels Featured
-
-http://violetland.googlecode.com/files/violetland-v0.2.0-0.jpg
