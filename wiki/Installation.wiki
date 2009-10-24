@@ -1,0 +1,26 @@
+#summary installation notes
+#labels Phase-Deploy,Featured
+
+The windows executable was created with help of MSVC++ 2008, thus the Microsoft Visual C++ 2008 Redistributable Package may be needed.
+
+Currently an easiest way to play violetland on linux is to build the program with help of the cmake build system. You probably can install it from the main repository of your linux distribution. Also your system must have the SDL packages (SDL, SDL_image, SDL_ttf, SDL_mixer), the same devel packages and gcc.
+
+Besides, some additional steps are required.
+
+First, unzip the downloaded package:
+
+`unzip violetland-v0.2.0-src.zip`
+`cd violetland-v0.2.0/`
+
+Second, make the program using cmake:
+
+`mkdir build`
+`cd build`
+`cmake -DCMAKE_INSTALL_PREFIX=/usr/local ..`
+`sudo make install`
+
+Third, run the program:
+
+`violetland`
+
+The readme file contains more instructions.
