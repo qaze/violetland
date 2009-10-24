@@ -1,0 +1,18 @@
+#summary how to set up various IDE for developing
+#labels Phase-Implementation
+
+= Eclipse =
+
+Install subclipse and CDT.
+
+Checkout the project from SVN as empty C++ project using wizard.
+
+Goto project properties -> C/C++ Build -> Settings.
+
+Select Tool Settings -> GCC C++ Compiler -> Directories.
+Add include path for SDL (f.e. -l/usr/include/SDL).
+
+Select Tool Settings -> Libraries.
+Add libraries SDL, SDL_mixer, SDL_ttf, SDL_image, GL (-l).
+
+You're done. Now you can build or debug the project.
