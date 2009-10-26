@@ -11,9 +11,9 @@ Besides, some additional steps are required.
 
 First, unzip the downloaded package:
 
-`unzip violetland-v0.2.0-src.zip`
+`unzip violetland-v0.2.1-src.zip`
 
-`cd violetland-v0.2.0/`
+`cd violetland-v0.2.1/`
 
 Second, make the program using cmake:
 
