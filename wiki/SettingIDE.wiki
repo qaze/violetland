@@ -16,3 +16,20 @@ Select Tool Settings -> Libraries.
 Add libraries SDL, SDL_mixer, SDL_ttf, SDL_image, GL (-l).
 
 You're done. Now you can build or debug the project.
+
+= Visual Studio 2008 =
+
+Checkout the project.
+
+Run the Visual Studio and create a new project from template "Win32 Console Application".
+Deselect the precompiled header option and select the empty project option in wizard.
+
+After project creating, add source files to the project (add existing item...).
+
+Go to the project properties -> Configuration properties -> C/C++ -> General and add additional include directories (you must download SDL, SDL_mixer, SDL_ttf, SDL_image packages and also a dirent.h file (see FileUtility.h for details).
+
+Go to the project properties -> Configuration properties -> Linker -> General and add additional library directories (same as in previous step).
+
+Last, go to project properties -> Configuration properties -> General and change character set from unicode to multi-byte.
+
+You're done. Now you can build or debug the project.
