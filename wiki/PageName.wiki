@@ -2,3 +2,5 @@
 #labels Phase-Requirements,Phase-Implementation
 
   * improved laser aim (interrupts on an obstacle)
+  * experimental mode with obstacles (stones)
+  * logo (small size for icon, normal size for web and splash screen)
