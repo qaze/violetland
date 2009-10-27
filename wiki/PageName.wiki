@@ -1,4 +1,4 @@
 #summary ToDo list
 #labels Phase-Requirements,Phase-Implementation
 
-* improved laser aim (interrupts on an obstacle)
+  * improved laser aim (interrupts on an obstacle)
