@@ -1,0 +1,16 @@
+#labels Featured
+Currently initial packages are:
+ * source package
+ * Windows x86 (XP, Vista, 7)
+These packages can be obtained [http://code.google.com/p/violetland/downloads/list here].
+
+There is a set of derivative packages for the different systems based on releases and SVN:
+ * [http://www.freshports.org/games/violetland FreeBSD]
+ * [http://packages.gentoo.org/package/games-action/violetland Gentoo]
+ * [http://dexpl.shell.tor.hu/rpms/fc12/violetland-0.2.4/ Fedora 12]
+ * [http://aur.archlinux.org/packages.php?ID=31542 ArchLinux (1)]
+ * [http://aur.archlinux.org/packages.php?ID=31486 ArchLinux (2)]
+
+Many thanks to all who lets know about new packages or make own packages.
+
+Please [http://groups.google.com/group/violetland let us know] if you've played Violetland on something not in the list above!
