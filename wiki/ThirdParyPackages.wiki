@@ -8,8 +8,7 @@ There is a set of derivative packages for the different systems based on release
  * [http://www.freshports.org/games/violetland FreeBSD]
  * [http://packages.gentoo.org/package/games-action/violetland Gentoo]
  * Fedora [http://www.ddt.cs.vsu.ru/dexpl/rpms/fc10/violetland-0.2.4/ 10], [http://www.ddt.cs.vsu.ru/dexpl/rpms/fc11/violetland-0.2.4/ 11], [http://www.ddt.cs.vsu.ru/dexpl/rpms/fc12/violetland-0.2.4/ 12]
- * [http://aur.archlinux.org/packages.php?ID=31542 ArchLinux (1)]
- * [http://aur.archlinux.org/packages.php?ID=31486 ArchLinux (2)]
+ * ArchLinux [http://aur.archlinux.org/packages.php?ID=31542 release] [http://aur.archlinux.org/packages.php?ID=31486 svn]
 
 Many thanks to all who lets know about new packages or make own packages.
 
