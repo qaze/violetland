@@ -31,3 +31,7 @@ Third, run the program:
 `violetland`
 
 The readme file contains more instructions.
+
+= Mac OS X =
+
+Just download one of the Mac builds, unzip, they should run out of the box on Mac OS X 10.5 and later.
