@@ -2,6 +2,7 @@
 Currently initial packages are:
  * source package
  * Windows x86 (XP, Vista, 7)
+ * Mac OS X (10.5 or later)
 These packages can be obtained [http://code.google.com/p/violetland/downloads/list here].
 
 There is a set of derivative packages for the different systems based on releases and SVN:
