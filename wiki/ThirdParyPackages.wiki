@@ -10,6 +10,8 @@ There is a set of derivative packages for the different systems based on release
  * [http://packages.gentoo.org/package/games-action/violetland Gentoo]
  * Fedora [http://www.ddt.cs.vsu.ru/dexpl/rpms/fc10/violetland-0.2.4/ 10], [http://www.ddt.cs.vsu.ru/dexpl/rpms/fc11/violetland-0.2.4/ 11], [http://www.ddt.cs.vsu.ru/dexpl/rpms/fc12/violetland-0.2.4/ 12]
  * Arch Linux [http://aur.archlinux.org/packages.php?ID=31542 releases], [http://aur.archlinux.org/packages.php?ID=31486 svn]
+ * Ubuntu [http://www.playdeb.net/software/Violetland playdeb]
+ * PiSi [http://www.playdeb.net/software/Violetland package], [http://svn.pardus-linux.org/paketler/P2009-free/violetland build files]
 
 Many thanks to all who lets know about new packages or make own packages.
 
