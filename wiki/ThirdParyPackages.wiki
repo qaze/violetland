@@ -1,11 +1,12 @@
 #labels Featured
-Currently initial packages are:
+Base packages are:
  * source package
  * Windows x86 (XP, Vista, 7)
  * Mac OS X (10.5 or later)
+
 These packages can be obtained [http://code.google.com/p/violetland/downloads/list here].
 
-There is a set of derivative packages for the different systems based on releases and SVN:
+In additional there is a set of derivative packages for the different systems based on releases and SVN:
  * [http://www.freshports.org/games/violetland FreeBSD]
  * [http://packages.gentoo.org/package/games-action/violetland Gentoo]
  * Fedora [http://www.ddt.cs.vsu.ru/dexpl/rpms/fc10/violetland-0.2.4/ 10], [http://www.ddt.cs.vsu.ru/dexpl/rpms/fc11/violetland-0.2.4/ 11], [http://www.ddt.cs.vsu.ru/dexpl/rpms/fc12/violetland-0.2.4/ 12]
