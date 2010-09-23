@@ -18,6 +18,7 @@ Add libraries SDL, SDL_mixer, SDL_ttf, SDL_image, GL (-l).
 You're done. Now you can build or debug the project.
 
 = KDevelop 4 =
+(weaselweb@web.de)
 
 == Setup ==
 
