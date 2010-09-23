@@ -17,6 +17,28 @@ Add libraries SDL, SDL_mixer, SDL_ttf, SDL_image, GL (-l).
 
 You're done. Now you can build or debug the project.
 
+= KDevelop 4 =
+
+== Setup ==
+
+    # Checkout project.
+    # Start Kdevelop and Select Project -> Open / Import Project.
+    # Select top-level CMakeLists.txt.
+    # Confirem CMake buildsystem.
+    # Select build and install dir (e.g. $SRC_ROOT/build and $SRC_ROOT/dist).
+    # Select build type.
+    # Build and install.
+
+== Create launch target ==
+
+    # Select Run -> Configure Launches...
+    # Select violetland and click the green +.
+    # Check Executeable and select absolut path to installed binary (e.g. $SRC_ROOT/dist/bin/violetland).
+    # Set wirking directory to $SRC_ROOT/dist/bin.
+    # Select "Build and Install" as dependency actions.
+
+You should be done now be able to launch normally or in a debug session using gdb.
+
 = Visual Studio 2008 =
 
 Checkout the project.
