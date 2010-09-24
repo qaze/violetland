@@ -12,9 +12,9 @@ In additional there is a set of derivative packages for the different systems ba
  * Fedora [http://www.ddt.cs.vsu.ru/dexpl/rpms/fc10/violetland-0.2.4/ 10], [http://www.ddt.cs.vsu.ru/dexpl/rpms/fc11/violetland-0.2.4/ 11], [http://www.ddt.cs.vsu.ru/dexpl/rpms/fc12/violetland-0.2.4/ 12]
  * Arch Linux [http://aur.archlinux.org/packages.php?ID=31542 releases], [http://aur.archlinux.org/packages.php?ID=31486 svn]
  * Ubuntu [http://www.playdeb.net/software/Violetland playdeb]
- * ALTLinux [http://www.sisyphus.ru/en/srpm/Sisyphus/violetland package] or "apt-get install violetland"
+ * [http://www.sisyphus.ru/en/srpm/Sisyphus/violetland ALTLinux] or "apt-get install violetland"
  * PiSi [http://www.playdeb.net/software/Violetland package], [http://svn.pardus-linux.org/paketler/P2009-free/violetland build files]
- * Frugalware [http://frugalware.org/packages/88904 package] or "pacman-g2 -S violetland"
+ * [http://frugalware.org/packages/88904 Frugalware] or "pacman-g2 -S violetland"
 
 Many thanks to all who lets know about new packages or make own packages.
 
