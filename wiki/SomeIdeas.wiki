@@ -6,6 +6,10 @@
   * Player can have two weapons simultaneously (may be various rules)
   * Drop or fix Wide Sight
 
+= Powerups =
+
+  * Madness - like a bomb, but instead of instant damage in range monsters will eat each other ;)
+
 = Weapons =
 
   * Flamethrower (damages the surface, like a grenade launcher; need animation; monsters should burn, burn each other and coal)
