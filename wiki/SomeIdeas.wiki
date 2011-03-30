@@ -1,25 +1,17 @@
 #summary Just some ideas for further developing
 
-= Perks =
+= Common =
 
-  * Perks as tree instead of plain list
-  * Player can have two weapons simultaneously (may be various rules)
-  * Drop or fix Wide Sight
-
-= Powerups =
-
-  * Madness - like a bomb, but instead of instant damage in range monsters will eat each other ;)
-
-= Weapons =
-
-  * Flamethrower (damages the surface, like a grenade launcher; need animation; monsters should burn, burn each other and coal)
-  * Gattling gun (like minigun in Crimsonland: player speed decreases, but weapon have big holder, high shooting rate and powerfull bullets).
-  * Mines ;)
+  * Pdf user manual in all supported languages.
 
 = Graphics =
 
   * Don't use opengl lighting, use multitexturing.
   * Switch in options that controls amount of blood in game: less blood (for slow machines to work around issue 35), medium blood (as is now), more blood (for those players who likes blood, sometimes want to see blood just gushing out of the screen).
+
+= Gameplay =
+
+  * Some obstacles on map as new game mode (rocks - shelter from the bullets, trees - where monsters can be hidden)
 
 = Monsters =
 
@@ -28,6 +20,18 @@
   * Monster which goes to player and explodes, damages player (kamikaze) (player can shoot him to damage some other monsters).
   * Invisible monster (he can be "visible" like in DOOM-1 or totally invisible)
 
-= Gameplay =
+== Perks ==
 
-  * Some obstacles on map as new game mode (rocks - shelter from the bullets, trees - where monsters can be hidden)
+  * Perks as tree instead of plain list
+  * Player can have two weapons simultaneously (may be various rules)
+  * Drop or fix Wide Sight
+
+== Powerups ==
+
+  * Madness - like a bomb, but instead of instant damage in range monsters will eat each other ;)
+
+== Weapons ==
+
+  * Flamethrower (damages the surface, like a grenade launcher; need animation; monsters should burn, burn each other and coal)
+  * Gattling gun (like minigun in Crimsonland: player speed decreases, but weapon have big holder, high shooting rate and powerfull bullets).
+  * Mines ;)
