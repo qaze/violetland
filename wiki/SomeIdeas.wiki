@@ -4,6 +4,7 @@
 = Common =
 
   * Pdf user manual in all supported languages.
+  * A common engine of tooltips which is integrated with current user control framework
 
 = Graphics =
 
@@ -14,7 +15,7 @@
 
   * Some obstacles on map as new game mode (rocks - shelter from the bullets, trees - where monsters can be hidden)
 
-= Monsters =
+== Monsters ==
 
   * Monster which can shoot
   * Monster which can teleport (he should has short teleport range and should do some preparations (visible to player) just before teleportation
