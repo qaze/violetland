@@ -1,4 +1,5 @@
 #summary Just some ideas for further developing
+#labels Featured
 
 = Common =
 
