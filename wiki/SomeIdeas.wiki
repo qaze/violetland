@@ -32,6 +32,7 @@
 == Powerups ==
 
   * Madness - like a bomb, but instead of instant damage in range monsters will eat each other ;)
+  * Vodka - health will be immediately restored, but for some time player will shoot and go not exactly in right direction.
 
 == Weapons ==
 
