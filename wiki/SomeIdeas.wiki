@@ -24,9 +24,10 @@
 
 == Perks ==
 
-  * Perks as tree instead of plain list
   * Player can have two weapons simultaneously (may be various rules)
-  * Drop or fix Wide Sight
+  * Perks as tree instead of plain list (or next idea)
+  * *Combined perks* - player can choose perks in any order, but they affect each other, strengthening or weakening. See next idea for example.
+  * Drop or fix Wide Sight (idea with combined perks is to rename the perk to "hyperopia" and make it combined with telekinesis - speed of telekinesis will be increased if this perk will be used)
 
 == Powerups ==
 
