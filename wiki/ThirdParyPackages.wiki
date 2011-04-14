@@ -11,7 +11,7 @@ In additional there is a set of derivative packages for the different systems ba
  * [http://packages.gentoo.org/package/games-action/violetland Gentoo]
  * Fedora [http://www.ddt.cs.vsu.ru/dexpl/rpms/fc10/violetland-0.2.4/ 10], [http://www.ddt.cs.vsu.ru/dexpl/rpms/fc11/violetland-0.2.4/ 11], [http://www.ddt.cs.vsu.ru/dexpl/rpms/fc12/violetland-0.2.4/ 12]
  * Arch Linux [http://aur.archlinux.org/packages.php?ID=31542 releases], [http://aur.archlinux.org/packages.php?ID=31486 svn]
- * [http://www.playdeb.net/software/Violetland playdeb Ubuntu]
+ * [http://www.playdeb.net/software/Violetland Ubuntu (playdeb)]
  * [http://www.sisyphus.ru/en/srpm/Sisyphus/violetland ALTLinux] or "apt-get install violetland"
  * PiSi [http://www.playdeb.net/software/Violetland package], [http://svn.pardus-linux.org/paketler/P2009-free/violetland build files]
  * [http://frugalware.org/packages/88904 Frugalware] or "pacman-g2 -S violetland"
