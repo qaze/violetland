@@ -3,6 +3,7 @@
 
 = Common =
 
+  * A roadmap with the accepted ideas from this list.
   * Pdf user manual in all supported languages.
   * A common engine of tooltips which is integrated with current user control framework.
   * Split violetland into two parts - a library that does main processing and a client that uses opengl to render gamestate.
@@ -26,8 +27,8 @@
 == Perks ==
 
   * Player can have two weapons simultaneously (may be various rules).
-  * Perks as tree instead of plain list (or next idea).
-  * Standard flamethrower does not burn monsters, just hurts them. When you take the Napalm perk, it loades your grenades, M-32 and flamethrower with napalm. Monsters will burn and flap, run in random direction and burn all in its path.
+  * Perks as tree instead of plain list.
+  * Standard flamethrower does not burn monsters, just hurts them. When you take the Napalm perk, it loades your grenades, M-32 and flamethrower with napalm. I want to make monsters burn and flap, fled in random direction and burn all in its path.
   * Change Telekinesis that it worked the same way as in crimsonland.
   * Bonus king - all bonuses slowly crawls to the player.
 
@@ -35,6 +36,7 @@
 
   * Madness - like a bomb, but instead of instant damage in range monsters will eat each other.
   * Vodka - health will be immediately restored, but for some time player will shoot and go not exactly in right direction.
+  * Shield - player will become immortal for some time.
 
 == Weapons ==
 
