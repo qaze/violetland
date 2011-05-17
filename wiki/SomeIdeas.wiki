@@ -12,6 +12,8 @@
 
   * Don't use opengl lighting, use multitexturing.
   * Switch in options that controls amount of blood in game: less blood (for slow machines to work around issue 35), medium blood (as is now), more blood (for those players who likes blood, sometimes want to see blood just gushing out of the screen).
+  * Muzzleslash
+  * Persistent shells on the ground
 
 = Gameplay =
 
