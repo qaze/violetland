@@ -31,8 +31,7 @@
   * Player can have two weapons simultaneously (may be various rules).
   * Perks as tree instead of plain list.
   * Standard flamethrower does not burn monsters, just hurts them. When you take the Napalm perk, it loades your grenades, M-32 and flamethrower with napalm. I want to make monsters burn and flap, fled in random direction and burn all in its path.
-  * Change Telekinesis that it worked the same way as in crimsonland.
-  * Bonus king - all bonuses slowly crawls to the player.
+  * Nuclear grenades.
 
 == Powerups ==
 
