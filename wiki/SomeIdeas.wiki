@@ -7,6 +7,7 @@
   * Pdf user manual in all supported languages.
   * A common engine of tooltips which is integrated with current user control framework.
   * Split violetland into two parts - a library that does main processing and a client that uses opengl to render gamestate.
+  * Installer for windows package.
 
 = Graphics =
 
