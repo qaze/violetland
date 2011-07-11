@@ -15,7 +15,7 @@ In additional there is a set of derivative packages for the different systems ba
  * [http://www.sisyphus.ru/en/srpm/Sisyphus/violetland ALTLinux] or `apt-get install violetland`
  * PiSi [http://www.playdeb.net/software/Violetland package], [http://svn.pardus-linux.org/paketler/P2009-free/violetland build files]
  * [http://frugalware.org/packages/88904 Frugalware] or `pacman-g2 -S violetland`
- * [http://www.rpath.org/repos/gameway/troveInfo?t=violetland Foresight Linux] or `sudo conary update violetland=gameway.rpath.org@fl:2` (foresightlinux.se@gmail.com)
+ * [http://www.rpath.org/repos/gameway/troveInfo?t=violetland Foresight Linux] or `sudo conary update violetland=gameway.rpath.org@fl:2` (mailto:foresightlinux.se@gmail.com)
  * [http://packman.links2linux.org/package/violetland openSuse]
 
 Many thanks to all who lets know about new packages or make own packages.
