@@ -6,7 +6,7 @@ Base packages are:
 
 These packages can be obtained [http://code.google.com/p/violetland/downloads/list here].
 
-In additional there is a set of derivative packages for the different systems based on releases and SVN:
+In additional there is a set of derivative packages for different systems based on releases and SVN:
  * [http://www.playdeb.net/software/Violetland Ubuntu (playdeb)]
  * [http://www.freshports.org/games/violetland FreeBSD]
  * [http://packages.gentoo.org/package/games-action/violetland Gentoo]
